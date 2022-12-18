@@ -48,7 +48,7 @@ body {
     position: relative;
 }
 
-div#celular {
+section#celular {
     display: inline-block;
     position: absolute;
     top: 50%;
@@ -56,7 +56,7 @@ div#celular {
     transform: translate(-50%,-50%);
 }
 
-div#tela {
+section#tela {
     display: block;
     position: absolute;
     top: 78px;
