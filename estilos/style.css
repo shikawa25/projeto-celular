@@ -27,7 +27,7 @@ nav > ul > li {
 nav > ul img {
     vertical-align: middle;
     width: 70px;
-    border-radius: 100px;
+    border-radius: 50%;
     box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.603);
     transition: width 1s;
 }
@@ -41,7 +41,7 @@ nav > ul > li > a > img:hover {
 }
 
 body {
-    background: url(imagens/fundo-madeira.jpg) center center no-repeat;
+    background: url(../imagens/fundo-madeira.jpg) center center no-repeat;
     background-size: cover;
     width: 98vw;
     height: 100vh;
